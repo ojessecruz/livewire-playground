@@ -22,3 +22,7 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+/app/Livewire/
+/resources/views/livewire/
+/resources/views/components/layouts/
+/routes/web.php
